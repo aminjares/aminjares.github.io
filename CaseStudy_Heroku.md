@@ -1,0 +1,3 @@
+### Case Study: Heroku
+
+The Heroku platform is designed to maximize developer productivity and provide a great developer experience, from an app’s first build to production and beyond. As part of this focus, Heroku extends the platform with a range of tools that support modern development practices, such as continuous delivery. Heroku Flow is a structured deployment workflow that combines tight integrations with GitHub, visually presented pipelines, disposable “review apps” and Heroku CI. Heroku Flow is designed to streamline the app release experience by making continuous delivery easy, visual, and efficient.
